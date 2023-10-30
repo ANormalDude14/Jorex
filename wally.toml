@@ -1,0 +1,8 @@
+[package]
+name = "LuauCoded/jorex"
+version = "0.1.0"
+registry = "https://github.com/Jorex/src"
+realm = "shared"
+license = "MIT"
+
+[dependencies]
